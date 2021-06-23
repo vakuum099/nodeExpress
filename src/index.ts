@@ -1,4 +1,4 @@
-import express, { Request, Response } from 'express';
+import express from 'express';
 import { router as ApiRoutes } from './routes/index.js';
 
 export const app = express();
