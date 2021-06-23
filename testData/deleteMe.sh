@@ -1,0 +1,1 @@
+curl -X DELETE -H -d http://localhost:3000/delete/02.txt

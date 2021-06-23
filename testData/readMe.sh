@@ -1,0 +1,1 @@
+curl -X GET -H -d http://localhost:3000/read/02.txt
