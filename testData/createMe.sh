@@ -1,0 +1,1 @@
+curl -X POST -H "document: application/json" -d @feedCreateToServer.txt http://localhost:3000/create/02.txt

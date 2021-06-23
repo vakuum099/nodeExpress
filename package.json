@@ -1,0 +1,38 @@
+{
+  "name": "nodeexpress",
+  "version": "1.0.0",
+  "description": "Simple Routing with Node.js Express",
+  "main": "index.js",
+  "dependencies": {
+    "@types/multer": "^1.4.6",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "multer": "^1.4.2",
+    "typescript": "^4.3.4"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.12"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vakuum099/nodeExpress.git"
+  },
+  "keywords": [
+    "Node.js",
+    "Express",
+    "Typscript\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[DMicroservices",
+    "Node.js",
+    "Express",
+    "Typescript"
+  ],
+  "author": "Kost Vakulenko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vakuum099/nodeExpress/issues"
+  },
+  "homepage": "https://github.com/vakuum099/nodeExpress#readme",
+  "type": "module"
+}
